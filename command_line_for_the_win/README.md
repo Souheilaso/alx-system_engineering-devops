@@ -1,6 +1,6 @@
 MD Challenge - Bash Skills Game
 
-![CMD Challenge](https://example.com/screenshot.png)
+![image](https://github.com/Souheilaso/alx-system_engineering-devops/assets/74138100/0aa7cb87-61f1-4c1a-84de-3493884f709b)
 
 ## Background Context
 
